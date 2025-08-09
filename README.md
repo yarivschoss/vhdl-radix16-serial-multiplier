@@ -104,7 +104,6 @@ vhdl-radix16-mult/
 │   ├─ radix16_mult_cu_ou.vhd      # Top-level + CU/OU entities/arch
 │   └─ tb_radix16_mult_cu_ou.vhd   # Testbench
 ├── docs/
-│   ├─ proj_overview.mp4            # Summary recording (Hebrew)
 │   ├─ assignment.pdf               # Course task (Hebrew)
 │   ├─ design_notes.pdf             # Radix-16 summary
 │   ├─ rtl_top.jpg                  # CU<->OU top diagram
